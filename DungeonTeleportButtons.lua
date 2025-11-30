@@ -57,6 +57,15 @@ if not Library then
         [505] = {445414}, -- The Dawnbreaker
         [500] = {445443}, -- The Rookery
         [501] = {445269}, -- The Stonevault
+
+        -- Midnight
+        [558] = {1254572}, -- Magisters' Terrace
+        [560] = {1254559}, -- Maisara Caverns
+        [559] = {1254563}, -- Nexus-Point Xenas
+        [556] = {1254555}, -- Pit of Saron
+        [239] = {1254551}, -- Seat of the Triumvirate
+        [161] = {1254557}, -- Skyreach
+        [557] = {1254400} -- Windrunner Spire
     }
 
     function Library:Initialize()

@@ -1,8 +1,8 @@
-## Interface: 110205, 110207, 120000
+## Interface: 120000
 ## Title: Dungeon Teleport Buttons
 ## Notes: Dungeon icons in the Mythic+ Dungeons tab become clickable and will cast their associated teleport spells. Tooltips are updated to display whether each spell is ready, on cooldown, or not learned.
 ## Author: Jugy
-## Version: 1.0.0
+## Version: 12.0.0
 ## IconTexture: Interface\Icons\spell_arcane_portalironforge
 ## X-Curse-Project-ID: 1394145
 
